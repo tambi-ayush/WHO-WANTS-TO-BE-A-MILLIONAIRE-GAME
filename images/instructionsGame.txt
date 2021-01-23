@@ -1,0 +1,15 @@
+ 1.  This game is inspired from the English show who wants to be a millionaire
+ 2.  There are six topics presented to you.You can choose any one topic of your interest.
+ 3.  As you choose the topic you will be directed to main window of the game.
+ 4.  There will be 15 Questions. Answer your way to win 1 Million Dollar,and become a 'Millionaire'.
+ 5.  Starting from first question each question will be presented to you one by one and you will get next
+      question you respond correctly.
+ 6.  There is a timer of 30 seconds till 10th Question After onwards there will be no time limit to answer.
+ 7.  There are two safe zones, 1st at a price of $1000,2nd at $32,000.If you respond any question after 
+      safe zone incorrectly you will fall down to the safe zone price.
+ 8.  You can also leave the game in between by clicking on the quit button.
+ 9.  There will be Four life lines(50-50,Audience poll,Expert Advice,Skip the Question).
+      50-50: 2 Random incorrect options will be eliminated.
+      Audience poll: Virtual Audience will vote out for correct option.
+      Expert Advice: Our Expert Tenali Raman will just the correct answer to you.
+      Skip the Question: Your present Question will be replaced by a new Question. 

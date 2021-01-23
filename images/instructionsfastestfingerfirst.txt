@@ -1,0 +1,14 @@
+ This game is inspired from the English show who wants to be a millionaire.On the first window you can
+  check our profile by clicking on AboutUs button.
+  
+ In Fastest Finger First window, there is one question and four options corresponding to that question.
+ You have to arrange the options in their correct order.
+ 
+ There will be a timer of 30 seconds to get correct order of the options.If you failed to do so you will
+ be directed back to the initial window.
+ 
+ If you get correct order of the options in  given time of 30 seconds you will be moved to the "who wants
+ to be a millionaire Quiz window".Where you have to select your subject of interest.
+ You can click each option at most once.
+ 
+ Enjoy the Game and give your views on mail in about us section.
